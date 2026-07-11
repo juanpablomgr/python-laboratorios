@@ -1,6 +1,6 @@
 # 🧪 Laboratorios Prácticos — Python para Análisis de Datos
 
-**Alumno:** Juan Pablo Mendoza Granda  
+Autor: Juan Pablo Mendoza 
 ---
 
 ## 📂 Contenido
