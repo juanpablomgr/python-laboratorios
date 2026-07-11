@@ -1,7 +1,6 @@
 # 🧪 Laboratorios Prácticos — Python para Análisis de Datos
 
-**Alumno:** Juan Pablo Mendoza
-
+**Alumno:** Juan Pablo Mendoza Granda  
 ---
 
 ## 📂 Contenido
@@ -13,6 +12,7 @@
 | `Laboratorio_02.ipynb` | Fundamentos, Estructuras y Control de Flujo |
 | `Laboratorio_03.ipynb` | Funciones, Manejo de Errores y Estructuras Combinadas |
 | `Laboratorio_04.ipynb` | Pandas I — Extracción, Exploración y Transformación |
+| `Laboratorio_05.ipynb` | Pandas II — Limpieza Avanzada, Merge y Exportación |
 | `Laboratorio_06.ipynb` | Python Analytics — Vectorización y Agrupación |
 
 ### PDFs
