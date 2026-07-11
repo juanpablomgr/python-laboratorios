@@ -18,12 +18,12 @@
 ### PDFs
 | Archivo | Descripción |
 |:--------|:------------|
-| `Clase_01_Tarea.pdf` | Tarea Clase 01 |
-| `Labo_06.pdf` | Laboratorio 06 |
+| `Clase_01_Tarea.pdf` | Laboratorio 01 |
+| `Laboratorio_Clase_02_Python_ETL.pdf` | Laboratorio 02 |
+| `Laboratorio_Clase_03_Python_ETL.pdf` | Laboratorio 03 |
 | `Laboratorio_04.pdf` | Laboratorio 04 |
-| `Laboratorio_Clase_02_Python_ETL.pdf` | Laboratorio Clase 02 |
-| `Laboratorio_Clase_03_Python_ETL.pdf` | Laboratorio Clase 03 |
-| `Laboratorio_Clase_05_Pandas_Avanzado.pdf` | Laboratorio Clase 05 |
+| `Laboratorio_Clase_05_Pandas_Avanzado.pdf` | Laboratorio 05 |
+| `Labo_06.pdf` | Laboratorio 06 |
 
 ---
 
